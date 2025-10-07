@@ -10,7 +10,7 @@
 ---
 
 ### Dashboard Preview
-![Customer Churn Dashboard](images/Dashboard_Image.png)
+![Customer Churn Dashboard](https://github.com/niranjan77978/Customer-Churn-Analysis/blob/main/Images/Dashboard_Image.png)
 
 ---
 
