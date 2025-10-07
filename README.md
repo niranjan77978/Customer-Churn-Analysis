@@ -93,7 +93,7 @@ Based on the insights, the following strategic recommendations are proposed:
 
 ### 9. Contact
 
-Created by **[Your Name]** - Feel free to connect!
+Created by **Niranjan Kumar Chaurasiya** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjankumarchaurasiya999/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niranjan77978)
